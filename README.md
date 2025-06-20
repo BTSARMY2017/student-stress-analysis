@@ -55,9 +55,9 @@ To run this analysis on your local machine, please follow these steps:
 4.  **Run the Notebook**
     Once the setup is complete, you can open and run the `EDA and Stress Prediction Model.ipynb` file in a Jupyter environment like VS Code or Jupyter Lab.
 
-    ## Dataset
+## 📊 Dataset
 
-The dataset used in this analysis is the **"Global High School Student Lifestyle & Wellness"** dataset, sourced from Kaggle. The data is contained in the `student_life.csv` file.
+The dataset used in this analysis is the **"Global High School Student Lifestyle & Wellness"** dataset, sourced from Kaggle. The data is contained in the `student life.csv` file.
 
 ## 💻 Tools and Libraries
 
